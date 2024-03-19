@@ -1,0 +1,33 @@
+body{
+    margin: 36px 25px;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 100px;
+}
+body.mob-change{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.project1{
+    font-size: 50px;
+}
+
+body.phone{
+    margin: 36px 25px;
+    /* padding: 250px; */
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: auto;
+    font-size: medium;
+}
+
+strong.under{
+    text-decoration: underline;
+}
+
+img.center_2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
